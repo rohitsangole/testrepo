@@ -1,0 +1,8 @@
+git config --global user.name "username"
+git config --global user.email "user_email"
+git clone (link)
+cd folder name
+git status
+git add .
+git commit -m ""
+git push main origin
